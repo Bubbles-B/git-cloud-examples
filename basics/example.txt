@@ -1,7 +1,8 @@
-<<<<<<< HEAD
+
 example
-=======
+
 example
 main
->>>>>>> main
+
 Angular
+
